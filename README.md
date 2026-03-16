@@ -20,35 +20,11 @@
 
 ⚙️ Tech Stack
 
-Languages
+Languages : Java JavaScript SQL
 
- Java
+Frameworks & Tools : React Native JavaFX Node.js Express.js MongoDB MySQL
 
- JavaScript
-
- SQL
-
-Frameworks & Tools
-
- React Native
-
- JavaFX
-
- Node.js
-
- Express.js
-
- MongoDB
-
- MySQL
-
-Tools
-
- Git & GitHub
-
- VS Code
-
- Netlify
+Tools : Git & GitHub VS Code Netlify
 
 🚀 Featured Projects
 🚗 Smart Parking AI System
